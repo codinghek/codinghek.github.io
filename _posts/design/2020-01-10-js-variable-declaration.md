@@ -1,19 +1,17 @@
 ---
 layout: page
 title: "Difference between var and let in Javascript"
-header: none
 subheadline: "var and let in javascript"
-meta-teaser: "Showing the difference between var and let in javascript variable declaration. Removing all confusions about var and let method of javascript."
 teaser: Showing the difference between var and let in javascript variable declaration. Removing all confusions about var and let method of javascript. 
 sidebar: right
 comments: true
+header: no
 image:
-    thumb: js-var-vs-let.jpg
     title: js-var-vs-let.jpg
+    thumb: js-var-vs-let.jpg
     homepage: js-var-vs-let.jpg
-    caption: javascript - let vs var
+    caption: "javascript (let vs var)"
 categories: 
-    - web designing
     - javascript
 ---
 
