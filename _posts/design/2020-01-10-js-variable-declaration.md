@@ -11,6 +11,10 @@ image:
     thumb: js-var-vs-let.jpg
     title: js-var-vs-let.jpg
     homepage: js-var-vs-let.jpg
+    caption: javascript - let vs var
+categories: 
+    - web designing
+    - javascript
 ---
 
 Have you ever wondered what's the difference between `let` and `var` in Javascript? I know, everyone faces some problems with them when they start learning Javascript for the first time. Are they the same? If so, why did programmers impliment them differently? Let's find it out. 
