@@ -10,17 +10,17 @@ header:
 widget1:
   title: "My Blog & Portfolio"
   url: '/blog/'
-  image: widget-1-302x182.jpg
+  image: blog-portfolio.jpg
   text: 'You will find all blogs and portfolios here. I post regularly about programming, freelancing tips etc. If you want to earn money by freelancing or want to learn some cool tricks of programming, I am here for help. Stay with me, keep following me and sooner or later, you will be able to learn a lot.'
 widget2:
   title: "Why my Blog?"
   # url: '#'
   text: 'I am a professional web developer and competitive programmer. I have been working with these sort of things for a long time. I want to sort all programming sources together. I will share different coding tactics and tricks which you can use to improve yourself. I am just sharing them with you. More importantly, it is free of cost.'
-  image: widget-1-302x182.jpg  
+  image: why-my-blog.jpg  
 widget3:
   title: "My facebook Page"
   url: 'https://www.facebook.com/Coding-Hacks-106796220859993/'
-  image: widget-1-302x182.jpg
+  image: fb-page.jpg
   text: 'I will post my articles there. So follow the page, give a like and you will get notifications when I post something.'
 #
 # Use the call for action to show a button on the frontpage

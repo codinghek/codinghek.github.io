@@ -10,6 +10,7 @@ tags:
     - background color
     - header
 header: no
+sidebar: right
 image:
     title: unsplash_eagle.jpg
     caption: This is a caption for the header image with link

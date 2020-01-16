@@ -1,0 +1,20 @@
+.iframe-video{
+    height: 315px;
+    width: 560px;
+}
+
+@media only screen and (max-width: 560px){
+    .iframe-video{
+        /* height: 180px; */
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 644px){
+    #logo{
+        width: 100%;
+    }
+}
+
+/* .checking-p{
+    color: red;
+} */
