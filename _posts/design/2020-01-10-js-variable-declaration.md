@@ -32,7 +32,7 @@ console.log(p);
 ```
 It prints 10 too. So it doesn't seem there is a difference between them. Now we will discuss about `let` and `var` differently and you will understand everything. 
 
-# let
+## let
 
 In a nutshell, `let` only works inside a block. If you declare a variable with `let` inside a javascript block, it won't work outside that. First we need to work with some html. Copy the following html code and paste it into a file. iet's assume the file name is `index.html`. The name can be anything though.
 
@@ -89,7 +89,7 @@ for(i = 0;i <= 10;i++){
 
 Now we will work with  `var`
 
-# var
+## var
 
 var declares a variable globally. So it doesn't matter where you declare the variable using var, you'll be able to use it. Run the following code for better understanding.
 ```js

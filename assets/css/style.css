@@ -3,9 +3,8 @@
     width: 560px;
 }
 
-@media only screen and (max-width: 560px){
+@media only screen and (max-width: 640px){
     .iframe-video{
-        /* height: 180px; */
         width: 100%;
     }
 }
