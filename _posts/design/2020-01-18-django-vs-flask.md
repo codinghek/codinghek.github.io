@@ -29,23 +29,23 @@ Hello there. Many of you are trying to learn back-end developing and there are m
 
 First of all, we have to know some basic things about them. Django and Flask are two web frameworks. Both of them are python frameworks, they use python in their background. You can make almost everything in the web developing field with any of them. But they are slightly different. Sometimes it's good to use Django, sometimes Flask. Let's talk about the pros and cons of Django and Flask in different aspects. 
 
-### Framework:
+### Framework
 
 As I said earlier, Django is a full-stack web developing python framework. Django allows you to code some common web developing tasks, like user authentication, URL formatting, database connecting, etc. You can make different kinds of apps and manage them easily because the whole framework is well organized. On the other hand, Flask is a minimalistic web framework. It's simple and lightweight. There are a lot of builtin features in Django where you'll not find a lot in Flask. 
 
-### Template: 
+### Template
 
 Flask uses jinja2 as its template engine. It's a fully-featured template engine in python and it's quite easy to read and handle. That's cool. On the other hand, Django uses it's own template engine called DTL(Django Template Language) which is fully dedicated to Django. Since it's made for Django, web developers don't need to put more time and effort to learn something new. It's builtin. 
 
-### Admin Panel: 
+### Admin Panel
 
 Django comes with a default administration panel which is quite cool. You can handle all the admin panel stuff there. You can manage posts and other apps and user authentications there. Which is very satisfying. Unlike Django, Flask has no builtin Admin panel. So you are not getting any kinds of extra benefits from Flask. 
 
-### Tools: 
+### Tools 
 
 Django has some builtin tools, like bootstrapping tool, `django-admin`. It enables you to start building web applications without any external data. It also allows you to divide  a task into smaller tasks and manage them easily. On the other hand, Flask doesn't have any bootstrapping tool, it's just a minimalistic web framework with no big modules. 
 
-### Speed: 
+### Speed
 
 Though Django and Flask use the same programming language, python, Django is a little bit slower than Flask. Because Django has to maintain a lot of advanced stuff But Flask doesn't have any fancy heavy modules. Its minimalistic structure gives it some speed. 
 
